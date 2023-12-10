@@ -1,6 +1,6 @@
 # Adversarial Training Library - Pytorch
 
-Pytorch implementation of commonly used adversarial training methods, including:
+Pytorch implementation of common adversarial training methods, including:
 
 - PGD-AT [1]
 - TRADES [2]
