@@ -11,8 +11,7 @@ Pytorch implementation of common adversarial training methods, including:
 - TRADES-AWP [6]
 - STAT-AWP [5]
 
-Checkpoints can be downloaded here: [百度网盘](https://pan.baidu.com/s/16Zt5fmHgPWAJrb9WGGTNIQ?pwd=w5rr) []()
-
+Checkpoints can be downloaded here: [百度网盘(w5rr)](https://pan.baidu.com/s/16Zt5fmHgPWAJrb9WGGTNIQ?pwd=w5rr)
 ## Training from Scratch
 
 You can train from scratch as follows
