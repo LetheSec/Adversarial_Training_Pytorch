@@ -85,6 +85,21 @@ All results are selected with the best robustness on the test set.
 | TRADES-AWP [6] |   84.90   | 62.87 | 59.19  |  59.09  | 55.99  |
 |  STAT-AWP [5]  |   86.41   | 64.83 | 60.31  |  60.03  | 56.58  |
 
+## Citation
+If you are considering citing this work, please refer to the following:
+
+```bibtex
+@misc{yuan2023atp,
+  title        = {Adversarial Training Library - Pytorch},
+  author       = {Yuan, Xiaojian},
+  year         = {2023},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/LetheSec/Adversarial_Training_Pytorch}},
+}
+```
+
+
 ## Reference
 
 [1] [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083) 
@@ -98,3 +113,6 @@ All results are selected with the best robustness on the test set.
 [5] [Squeeze Training for Adversarial Robustness](https://arxiv.org/abs/2205.11156)
 
 [6] [Adversarial Weight Perturbation Helps Robust Generalization](http://arxiv.org/abs/2004.05884)
+
+
+
